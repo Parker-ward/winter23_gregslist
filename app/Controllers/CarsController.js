@@ -35,7 +35,7 @@ export class CarsController {
     setText('add-listing-button', '🚙 A new Car?')
     setText('listingFormLabel', '🚓 Impounded title... Get it cheap')
 
-    setHTML('the-actual-form', Car.CarForm())
+    // setHTML('the-actual-form', Car.CarForm())
 
     _drawCars()
   }
